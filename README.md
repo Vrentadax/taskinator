@@ -1,4 +1,4 @@
-# My Portfolio
+# Taskinator
 
 ## Purpose
 Creates tasks that can later be edited and deleted as well as re-categorized. Through web APIs, tasks are stored locally.
